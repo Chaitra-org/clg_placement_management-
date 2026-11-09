@@ -117,7 +117,7 @@ college_placement_system/
 
 ### 1. Open Terminal / PowerShell
 ```powershell
-cd "C:\Users\chaitrali\.gemini\antigravity\scratch\college_placement_system"
+cd "your_folder_path"
 ```
 
 ### 2. Install Dependencies
