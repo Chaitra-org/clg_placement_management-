@@ -1,0 +1,6 @@
+Company ID,Company Name,Role,Min CGPA,Required Skills,Package (LPA)
+CMP01,Google Cloud,Software Development Engineer,8.5,"Python, Data Structures, Git",18.0
+CMP02,Microsoft,Data Analyst,8.0,"Python, SQL, Pandas, Machine Learning",14.5
+CMP03,Infosys,Systems Engineer,7.0,"Python, Java, SQL",6.5
+CMP04,TCS Digital,Full Stack Developer,7.5,"JavaScript, React, SQL, Web Development",7.5
+CMP05,Qualcomm,Embedded Software Engineer,7.5,"C++, Embedded Systems, Linux",12.0
